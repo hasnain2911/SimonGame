@@ -73,7 +73,7 @@ public class Simon {
             }
 //            swiftBot.disableAllButtons(); // Turns off all buttons now that it's been 10 seconds.
 //            System.out.println("All buttons are now off.");
-            //Checking GitHub
+            //Checking Git
 
         }catch(Exception e){
             System.out.println("ERROR occurred when setting up buttons.");
